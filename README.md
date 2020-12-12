@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ https://cerafinn.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Andaleeb Farooq
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
