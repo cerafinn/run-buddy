@@ -2,8 +2,9 @@
     --primary-color: #fce138;
     --secondary-color: #024e76;
     --tertiary-color: #39a6b2;
+    --light: #fff;
 }
-  
+
 * {
     margin: 0;
     padding: 0;
@@ -96,7 +97,7 @@ section {
     width: 35%;
     text-align: right;
     margin: 3.5%;
-    color: #fff;
+    color: var(--light);
     font-size: 18px;
     line-height: 1.2;
 }
@@ -133,7 +134,7 @@ section {
     display: block;
     padding: 7px 15px;
     font-size: 16px;
-    color: var(--secondary-color);
+    color: var(--light);
     width: 100%;
     margin-bottom: 15px;
     border-radius: 10px;
@@ -531,7 +532,7 @@ section {
     display: block;
     padding: 7px 15px;
     font-size: 16px;
-    color: var(--secondary-color);
+    color: var(--light);
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
